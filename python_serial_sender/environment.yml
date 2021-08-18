@@ -1,0 +1,8 @@
+name: lpm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pyserial=3.5
+  - python=3.7.10
+prefix: /Users/vvzen/miniconda3/envs/lpm
